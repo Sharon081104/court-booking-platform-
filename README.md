@@ -1,4 +1,3 @@
-EADME.md Content
 📂 Court Booking Platform
 This is a full-stack web application designed for booking sports courts, coaches, and related equipment.
 
