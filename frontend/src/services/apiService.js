@@ -3,7 +3,7 @@ import axios from 'axios';
 // Set up the base URL for the backend API
 const API = axios.create({
     // Use the port where your Node/Express server is running (usually 5000)
-    baseURL: 'https://your-live-backend-api.com/api', 
+    baseURL: 'https://court-booking-platform-5qux.onrender.com/api', 
     headers: {
         'Content-Type': 'application/json',
     },
